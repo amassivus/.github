@@ -11,7 +11,7 @@
 
 amassivus free software cloud suite 
 
-Copyright (C) 2023 Masscollabs Services
+Copyright (C) 2017-2024 Masscollabs Services
 
 Copyright (C) 2017-2024 amassivus and contributors
 
