@@ -2,7 +2,7 @@
 
 🙋‍♀️ amassivus is a Free Software Cloud suite
 
-🌈 Masscollabs Services Code of Conduct applies to amassivus organization
+🌈 Masscollabs Services [Code of Conduct](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md) applies to amassivus organization
 
 👩‍💻 Day by day we are growing and writing our projects and their documentations
 
