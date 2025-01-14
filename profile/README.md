@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**massivus** is a Free Software Cloud suite aims to provide the best Free Software framework and tools for the Datacenter and Cloud operations.
+**amassivus** is a Free Software Cloud suite aims to provide the best Free Software framework and tools for the Datacenter and Cloud operations.
 
 # License
 
