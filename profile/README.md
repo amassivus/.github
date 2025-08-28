@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![amassivus cloud computing](img/179896.png)
+
+https://openclipart.org/detail/179896/world-wide-web Public Domain
+
 **amassivus** is a Free Software Cloud suite aims to provide the best Free Software framework and tools for the Datacenter and Cloud operations.
 
 Please read our [Code of Conduct](https://github.com/masscollabs/masscollabs/blob/master/CODE_OF_CONDUCT.md) to understand how we are organized and serve to the **public**.
