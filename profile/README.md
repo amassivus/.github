@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![amassivus cloud computing](img/179896.png)
+![amassivus cloud computing](../img/179896.png)
 
 https://openclipart.org/detail/179896/world-wide-web Public Domain
 
