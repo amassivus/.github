@@ -8,6 +8,7 @@ Please read our [Code of Conduct](https://github.com/masscollabs/masscollabs/blo
 
 Amassivus Free Software Cloud Suite 
 
+
 Copyright (C) 2024-2025 QB Networks
 
 Copyright (C) 2017-2025 Masscollabs Services
@@ -23,6 +24,14 @@ Copyright (C) 2024-2025 godigitalist and contributors
 Copyright (C) 2024-2025 bilsege and contributors
 
 Copyright (C) 2024-2025 Birleşik Dergi Yazarları
+
+Copyright (C) 2025 Exsay and contributors
+
+Copyright (C) 2025 Açık Ağ ve katkıcıları
+
+Copyright (C) 2025 cekirdek.xyz ve katkıcıları
+
+Copyright (C) 2025 The Go Network Community
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published
